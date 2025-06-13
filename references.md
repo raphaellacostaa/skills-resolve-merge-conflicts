@@ -1,3 +1,6 @@
-# References
+## References
 
-* octocat 1 😈
+- Leia Organa — Rebel Leader
+- Frodo Baggins — Ring Bearer
+- Sherlock Holmes — Consulting Detective
+
